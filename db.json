@@ -1,13 +1,14 @@
-{
-  "works": [
-    {"id":1, "title": "BRANCH", "img":"https://www.firoozehtile.com/thumb/photos/800/800/uploads/pattern/gallery/a652fb5c254e3bbfc5249f7864a07b9e.jpg", "size":"60X120", "color":"Gray"},
-    {"id":2, "title": "INOX", "img":"https://www.firoozehtile.com/thumb/photos/800/800/uploads/pattern/gallery/bb0d11340d08ba72d3586e0fa2074118.jpg", "size":"60X120", "color":"Blue"},
-    {"id":3, "title": "KAROL", "img":"https://www.firoozehtile.com/thumb/photos/800/800/uploads/pattern/gallery/a8473b29afbcbc2254b3b04fdb23a6ac.jpg", "size":"75X75", "color":"Brown"},
-    {"id":4, "title": "CAMIA", "img":"https://www.firoozehtile.com/thumb/photos/800/800/uploads/pattern/gallery/fa3735b2ab015df05c92832b64c6579e.jpg", "size":"40X100", "color":"Light"},
-    {"id":5, "title": "PRIMA", "img":"https://www.firoozehtile.com/thumb/photos/800/800/uploads/pattern/gallery/aba96b5e3b150fbd45275fe2c3d00bed.jpg", "size":"30X30", "color":"Cream"},
-    {"id":6, "title": "SOFIA", "img":"https://www.firoozehtile.com/thumb/photos/800/800/uploads/pattern/gallery/19108d19910bc1e0c7f91de255bf1e9e.jpg", "size":"80X80", "color":"Orange"}
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+  {
+    "id": 1,
+    "name": "administrator",
+    "username": "admin",
+    "password":"admin"
+    },
+   {
+    "id": 2,
+    "name": "hamidreza",
+    "username": "hamid",
+    "password":"sarnobeh"
+    }
+  ]
